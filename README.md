@@ -1,0 +1,2 @@
+# python-harjoitus
+Alkeita Pythonista
