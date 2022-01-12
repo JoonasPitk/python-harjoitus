@@ -1,2 +1,0 @@
-# Testi
-print('Testi3')
