@@ -23,6 +23,7 @@ class Opettaja(Henkilo):
         super().__init__(etunimi, sukunimi, osasto)
         self.tyohuone = tyohuone
 
+
 # VARSINAINEN OHJELMA
 
 # Luodaan Opiskelija-olio.

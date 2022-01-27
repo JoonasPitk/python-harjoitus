@@ -14,13 +14,13 @@ print('Viikon ensimmäinen päivä on', viikonpaivat[0])
 
 # Sanakirja eli dict viikonpäivistä suomi-englanti.
 day_names = {
-    'maanantai':'Monday',
-    'tiistai':'Tuesday',
-    'keskiviikko':'Wednesday',
-    'torstai':'Thursday',
-    'perjantai':'Friday',
-    'lauantai':'Saturday',
-    'sunnuntai':'Sunday'
+    'maanantai': 'Monday',
+    'tiistai': 'Tuesday',
+    'keskiviikko': 'Wednesday',
+    'torstai': 'Thursday',
+    'perjantai': 'Friday',
+    'lauantai': 'Saturday',
+    'sunnuntai': 'Sunday'
 }
 
 # Testataan tulostuskomennossa.

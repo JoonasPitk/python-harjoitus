@@ -21,7 +21,7 @@ class Lainaaja:
         print(
             'Opiskelijanumero:', self.opiskelijanumero, '\n'
             'Etunimi:', self.etunimi, '\n'
-            'Sukunimi:',self.sukunimi
+            'Sukunimi:', self.sukunimi
         )
 
 # VARSINAINEN OHJELMA
